@@ -1,61 +1,61 @@
-country,year,pop,countries,lifeExp,h1bvisa
-Afghanistan,1997,31684,india,28.801,31684
-Afghanistan,1998,40246,india,30.332,40246
-Afghanistan,1999,55062,india,31.997,55062
-Afghanistan,2000,61530,india,34.02,61530
-Afghanistan,2001,74078,india,36.088,74078
-Afghanistan,2002,44012,india,38.438,44012
-Afghanistan,2003,42245,india,39.854,42245
-Afghanistan,2004,63737,india,40.822,63737
-Afghanistan,2005,53579,india,41.674,53579
-Afghanistan,2006,64887,india,41.763,64887
-Afghanistan,2007,83464,india,42.129,83464
-Afghanistan,2008,72517,india,43.828,72517
-Afghanistan,2009,55886,india,43.828,55886
-Afghanistan,2010,58664,india,43.828,58664
-Afghanistan,2011,72438,india,43.828,72438
-Afghanistan,2012,80630,india,43.828,80630
-Afghanistan,2013,99705,india,43.828,99705
-Afghanistan,2014,108817,india,43.828,108817
-Afghanistan,2015,119952,india,43.828,119952
-Afghanistan,2016,126692,india,43.828,126692
-Albania,1997,6927,Great Britain and Northern Ireland,55.23,6927
-Albania,1998,6342,Great Britain and Northern Ireland,59.28,6342
-Albania,1999,6664,Great Britain and Northern Ireland,64.82,6664
-Albania,2000,7304,Great Britain and Northern Ireland,66.22,7304
-Albania,2001,8462,Great Britain and Northern Ireland,67.69,8462
-Albania,2002,6842,Great Britain and Northern Ireland,68.93,6842
-Albania,2003,6095,Great Britain and Northern Ireland,70.42,6095
-Albania,2004,6557,Great Britain and Northern Ireland,72,6557
-Albania,2005,5617,Great Britain and Northern Ireland,71.581,5617
-Albania,2006,4805,Great Britain and Northern Ireland,72.95,4805
-Albania,2007,4475,Great Britain and Northern Ireland,75.651,4475
-Albania,2008,3082,Great Britain and Northern Ireland,76.423,3082
-Afghanistan,2009,2901,Great Britain and Northern Ireland,43.828,2901
-Afghanistan,2010,3553,Great Britain and Northern Ireland,43.828,3553
-Afghanistan,2011,3660,Great Britain and Northern Ireland,43.828,3660
-Afghanistan,2012,3019,Great Britain and Northern Ireland,43.828,3019
-Afghanistan,2013,2699,Great Britain and Northern Ireland,43.828,2699
-Afghanistan,2014,2509,Great Britain and Northern Ireland,43.828,2509
-Afghanistan,2015,2111,Great Britain and Northern Ireland,43.828,2111
-Afghanistan,2016,1769,Great Britain and Northern Ireland,43.828,1769
-Algeria,1997,3206,China - mainland,43.077,3206
-Algeria,1998,3880,China - mainland,43.077,3880
-Algeria,1999,5775,China - mainland,43.077,5775
-Algeria,2000,7489,China - mainland,43.077,7489
-Algeria,2001,9076,China - mainland,43.077,9076
-Algeria,2002,7576,China - mainland,43.077,7576
-Algeria,2003,5608,China - mainland,43.077,5608
-Algeria,2004,6583,China - mainland,43.077,6583
-Algeria,2005,7113,China - mainland,43.077,7113
-Algeria,2006,9451,China - mainland,43.077,9451
-Algeria,2007,10761,China - mainland,43.077,10761
-Angola,2008,9141,China - mainland,30.015,9141
-Angola,2009,9223,China - mainland,31.999,9223
-Angola,2010,11242,China - mainland,34.426,11242
-Angola,2011,10849,China - mainland,35.985,10849
-Angola,2012,11077,China - mainland,37.928,11077
-Angola,2013,12632,China - mainland,39.483,12632
-Angola,2014,14871,China - mainland,39.942,14871
-Angola,2015,18306,China - mainland,39.906,18306
-Angola,2016,21657,China - mainland,40.647,21657
+year,pop,countries,h1bvisa
+1997,31684,india,31684
+1998,40246,india,40246
+1999,55062,india,55062
+2000,61530,india,61530
+2001,74078,india,74078
+2002,44012,india,44012
+2003,42245,india,42245
+2004,63737,india,63737
+2005,53579,india,53579
+2006,64887,india,64887
+2007,83464,india,83464
+2008,72517,india,72517
+2009,55886,india,55886
+2010,58664,india,58664
+2011,72438,india,72438
+2012,80630,india,80630
+2013,99705,india,99705
+2014,108817,india,108817
+2015,119952,india,119952
+2016,126692,india,126692
+1997,6927,Great Britain and Northern Ireland,6927
+1998,6342,Great Britain and Northern Ireland,6342
+1999,6664,Great Britain and Northern Ireland,6664
+2000,7304,Great Britain and Northern Ireland,7304
+2001,8462,Great Britain and Northern Ireland,8462
+2002,6842,Great Britain and Northern Ireland,6842
+2003,6095,Great Britain and Northern Ireland,6095
+2004,6557,Great Britain and Northern Ireland,6557
+2005,5617,Great Britain and Northern Ireland,5617
+2006,4805,Great Britain and Northern Ireland,4805
+2007,4475,Great Britain and Northern Ireland,4475
+2008,3082,Great Britain and Northern Ireland,3082
+2009,2901,Great Britain and Northern Ireland,2901
+2010,3553,Great Britain and Northern Ireland,3553
+2011,3660,Great Britain and Northern Ireland,3660
+2012,3019,Great Britain and Northern Ireland,3019
+2013,2699,Great Britain and Northern Ireland,2699
+2014,2509,Great Britain and Northern Ireland,2509
+2015,2111,Great Britain and Northern Ireland,2111
+2016,1769,Great Britain and Northern Ireland,1769
+1997,3206,China - mainland,3206
+1998,3880,China - mainland,3880
+1999,5775,China - mainland,5775
+2000,7489,China - mainland,7489
+2001,9076,China - mainland,9076
+2002,7576,China - mainland,7576
+2003,5608,China - mainland,5608
+2004,6583,China - mainland,6583
+2005,7113,China - mainland,7113
+2006,9451,China - mainland,9451
+2007,10761,China - mainland,10761
+2008,9141,China - mainland,9141
+2009,9223,China - mainland,9223
+2010,11242,China - mainland,11242
+2011,10849,China - mainland,10849
+2012,11077,China - mainland,11077
+2013,12632,China - mainland,12632
+2014,14871,China - mainland,14871
+2015,18306,China - mainland,18306
+2016,21657,China - mainland,21657
