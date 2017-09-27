@@ -59,115 +59,115 @@ year	pop	countries	h1bvisa
 2014	14871	China - mainland	14871
 2015	18306	China - mainland	18306
 2016	21657	China - mainland	21657
-1997	2,929	Japan	2,929
-1998	2,878	Japan	2,878
-1999	3,338	Japan	3,338
-2000	3,781	Japan	3,781
-2001	4,096	Japan	4,096
-2002	3,772	Japan	3,772
-2003	3,836	Japan	3,836
-2004	4,214	Japan	4,214
-2005	4,073	Japan	4,073
-2006	3,795	Japan	3,795
-2007	3,516	Japan	3,516
-2008	2,610	Japan	2,610
-2009	2,505	Japan	2,505
-2010	2,430	Japan	2,430
-2011	2,054	Japan	2,054
-2012	1,907	Japan	1,907
-2013	1,698	Japan	1,698
-2014	1,369	Japan	1,369
-2015	1,146	Japan	1,146
-2016	1,011	Japan	1,011
-1997	2,785	Mexico	2,785
-1998	2,320	Mexico	2,320
-1999	2,418	Mexico	2,418
-2000	2,404	Mexico	2,404
-2001	2,915	Mexico	2,915
-2002	2,990	Mexico	2,990
-2003	2,664	Mexico	2,664
-2004	3,016	Mexico	3,016
-2005	2,505	Mexico	2,505
-2006	2,699	Mexico	2,699
-2007	2,905	Mexico	2,905
-2008	2,421	Mexico	2,421
-2009	2,190	Mexico	2,190
-2010	2,494	Mexico	2,494
-2011	2,647	Mexico	2,647
-2012	3,543	Mexico	3,543
-2013	3,686	Mexico	3,686
-2014	3,243	Mexico	3,243
-2015	2,894	Mexico	2,894
-2016	2,540	Mexico	2,540
-1997	2,653	Philippines	2,653
-1998	2,759	Philippines	2,759
-1999	3,064	Philippines	3,064
-2000	3,102	Philippines	3,102
-2001	4,470	Philippines	4,470
-2002	3,387	Philippines	3,387
-2003	3,027	Philippines	3,027
-2004	3,467	Philippines	3,467
-2005	2,849	Philippines	2,849
-2006	2,823	Philippines	2,823
-2007	4,279	Philippines	4,279
-2008	3,998	Philippines	3,998
-2009	3,676	Philippines	3,676
-2010	3,173	Philippines	3,173
-2011	2,369	Philippines	2,369
-2012	2,026	Philippines	2,026
-2013	2,160	Philippines	2,160
-2014	1,700	Philippines	1,700
-2015	1,432	Philippines	1,432
-2016	1,455	Philippines	1,455
-1997	2,088	Germany	2,088
-1998	2,242	Germany	2,242
-1999	2,444	Germany	2,444
-2000	2,699	Germany	2,699
-2001	3,190	Germany	3,190
-2002	2,859	Germany	2,859
-2003	2,473	Germany	2,473
-2004	2,859	Germany	2,859
-2005	2,550	Germany	2,550
-2006	2,395	Germany	2,395
-2007	2,100	Germany	2,100
-2008	1,674	Germany	1,674
-2009	1,523	Germany	1,523
-2010	1,639	Germany	1,639
-2011	1,627	Germany	1,627
-2012	1,446	Germany	1,446
-2013	1,274	Germany	1,274
-2014	1,213	Germany	1,213
-2015	1,091	Germany	1,091
-2016	1,061	Germany	1,061
-1997	1,894	France	1,894
-1998	2,110	France	2,110
-1999	2,429	France	2,429
-2000	2,803	France	2,803
-2001	3,450	France	3,450
-2002	2,913	France	2,913
-2003	2,573	France	2,573
-2004	2,715	France	2,715
-2005	2,627	France	2,627
-2006	2,373	France	2,373
-2007	2,190	France	2,190
-2008	1,770	France	1,770
-2009	1,662	France	1,662
-2010	1,951	France	1,951
-2011	2,069	France	2,069
-2012	1,855	France	1,855
-2013	1,782	France	1,782
-2014	1,709	France	1,709
-2015	1,594	France	1,594
-2016	1,479	France	1,479
-1997		Australia	1,436
-1998		Australia	1,665
-1999		Australia	1,651
-2000		Australia	1,794
-2001		Australia	2,176
-2002		Australia	1,814
-2003		Australia	1,627
-2004		Australia	1,614
-2005		Australia	1,392
+1997	2929	Japan	2929
+1998	2878	Japan	2878
+1999	3338	Japan	3338
+2000	3781	Japan	3781
+2001	4096	Japan	4096
+2002	3772	Japan	3772
+2003	3836	Japan	3836
+2004	4214	Japan	4214
+2005	4073	Japan	4073
+2006	3795	Japan	3795
+2007	3516	Japan	3516
+2008	2610	Japan	2610
+2009	2505	Japan	2505
+2010	2430	Japan	2430
+2011	2054	Japan	2054
+2012	1907	Japan	1907
+2013	1698	Japan	1698
+2014	1369	Japan	1369
+2015	1146	Japan	1146
+2016	1011	Japan	1011
+1997	2785	Mexico	2785
+1998	2320	Mexico	2320
+1999	2418	Mexico	2418
+2000	2404	Mexico	2404
+2001	2915	Mexico	2915
+2002	2990	Mexico	2990
+2003	2664	Mexico	2664
+2004	3016	Mexico	3016
+2005	2505	Mexico	2505
+2006	2699	Mexico	2699
+2007	2905	Mexico	2905
+2008	2421	Mexico	2421
+2009	2190	Mexico	2190
+2010	2494	Mexico	2494
+2011	2647	Mexico	2647
+2012	3543	Mexico	3543
+2013	3686	Mexico	3686
+2014	3243	Mexico	3243
+2015	2894	Mexico	2894
+2016	2540	Mexico	2540
+1997	2653	Philippines	2653
+1998	2759	Philippines	2759
+1999	3064	Philippines	3064
+2000	3102	Philippines	3102
+2001	4470	Philippines	4470
+2002	3387	Philippines	3387
+2003	3027	Philippines	3027
+2004	3467	Philippines	3467
+2005	2849	Philippines	2849
+2006	2823	Philippines	2823
+2007	4279	Philippines	4279
+2008	3998	Philippines	3998
+2009	3676	Philippines	3676
+2010	3173	Philippines	3173
+2011	2369	Philippines	2369
+2012	2026	Philippines	2026
+2013	2160	Philippines	2160
+2014	1700	Philippines	1700
+2015	1432	Philippines	1432
+2016	1455	Philippines	1455
+1997	2088	Germany	2088
+1998	2242	Germany	2242
+1999	2444	Germany	2444
+2000	2699	Germany	2699
+2001	3190	Germany	3190
+2002	2859	Germany	2859
+2003	2473	Germany	2473
+2004	2859	Germany	2859
+2005	2550	Germany	2550
+2006	2395	Germany	2395
+2007	2100	Germany	2100
+2008	1674	Germany	1674
+2009	1523	Germany	1523
+2010	1639	Germany	1639
+2011	1627	Germany	1627
+2012	1446	Germany	1446
+2013	1274	Germany	1274
+2014	1213	Germany	1213
+2015	1091	Germany	1091
+2016	1061	Germany	1061
+1997	1894	France	1894
+1998	2110	France	2110
+1999	2429	France	2429
+2000	2803	France	2803
+2001	3450	France	3450
+2002	2913	France	2913
+2003	2573	France	2573
+2004	2715	France	2715
+2005	2627	France	2627
+2006	2373	France	2373
+2007	2190	France	2190
+2008	1770	France	1770
+2009	1662	France	1662
+2010	1951	France	1951
+2011	2069	France	2069
+2012	1855	France	1855
+2013	1782	France	1782
+2014	1709	France	1709
+2015	1594	France	1594
+2016	1479	France	1479
+1997		Australia	1436
+1998		Australia	1665
+1999		Australia	1651
+2000		Australia	1794
+2001		Australia	2176
+2002		Australia	1814
+2003		Australia	1627
+2004		Australia	1614
+2005		Australia	1392
 2006		Australia	990
 2007		Australia	695
 2008		Australia	482
@@ -179,37 +179,37 @@ year	pop	countries	h1bvisa
 2014		Australia	424
 2015		Australia	373
 2016		Australia	412
-1997	1,420	China - Taiwan	1,420
-1998	1,693	China - Taiwan	1,693
-1999	2,209	China - Taiwan	2,209
-2000	2,712	China - Taiwan	2,712
-2001	2,906	China - Taiwan	2,906
-2002	2,642	China - Taiwan	2,642
-2003	2,039	China - Taiwan	2,039
-2004	2,662	China - Taiwan	2,662
-2005	2,483	China - Taiwan	2,483
-2006	2,537	China - Taiwan	2,537
-2007	2,506	China - Taiwan	2,506
-2008	1,945	China - Taiwan	1,945
-2009	2,057	China - Taiwan	2,057
-2010	2,061	China - Taiwan	2,061
-2011	1,705	China - Taiwan	1,705
-2012	1,692	China - Taiwan	1,692
-2013	1,560	China - Taiwan	1,560
-2014	1,505	China - Taiwan	1,505
-2015	1,448	China - Taiwan	1,448
-2016	1,425	China - Taiwan	1,425
-1997	1,357	Russia	1,357
-1998	1,395	Russia	1,395
-1999	1,619	Russia	1,619
-2000	1,945	Russia	1,945
-2001	2,167	Russia	2,167
-2002	1,336	Russia	1,336
-2003	1,194	Russia	1,194
-2004	1,484	Russia	1,484
-2005	1,240	Russia	1,240
-2006	1,203	Russia	1,203
-2007	1,150	Russia	1,150
+1997	1420	China - Taiwan	1420
+1998	1693	China - Taiwan	1693
+1999	2209	China - Taiwan	2209
+2000	2712	China - Taiwan	2712
+2001	2906	China - Taiwan	2906
+2002	2642	China - Taiwan	2642
+2003	2039	China - Taiwan	2039
+2004	2662	China - Taiwan	2662
+2005	2483	China - Taiwan	2483
+2006	2537	China - Taiwan	2537
+2007	2506	China - Taiwan	2506
+2008	1945	China - Taiwan	1945
+2009	2057	China - Taiwan	2057
+2010	2061	China - Taiwan	2061
+2011	1705	China - Taiwan	1705
+2012	1692	China - Taiwan	1692
+2013	1560	China - Taiwan	1560
+2014	1505	China - Taiwan	1505
+2015	1448	China - Taiwan	1448
+2016	1425	China - Taiwan	1425
+1997	1357	Russia	1357
+1998	1395	Russia	1395
+1999	1619	Russia	1619
+2000	1945	Russia	1945
+2001	2167	Russia	2167
+2002	1336	Russia	1336
+2003	1194	Russia	1194
+2004	1484	Russia	1484
+2005	1240	Russia	1240
+2006	1203	Russia	1203
+2007	1150	Russia	1150
 2008	752	Russia	752
 2009	695	Russia	695
 2010	692	Russia	692
@@ -219,12 +219,12 @@ year	pop	countries	h1bvisa
 2014	735	Russia	735
 2015	690	Russia	690
 2016	672	Russia	672
-1997	1,292	South Africa	1,292
-1998	1,301	South Africa	1,301
-1999	1,345	South Africa	1,345
-2000	1,259	South Africa	1,259
-2001	1,529	South Africa	1,529
-2002	1,073	South Africa	1,073
+1997	1292	South Africa	1292
+1998	1301	South Africa	1301
+1999	1345	South Africa	1345
+2000	1259	South Africa	1259
+2001	1529	South Africa	1529
+2002	1073	South Africa	1073
 2003	902	South Africa	902
 2004	992	South Africa	992
 2005	784	South Africa	784
@@ -239,17 +239,17 @@ year	pop	countries	h1bvisa
 2014	248	South Africa	248
 2015	268	South Africa	268
 2016	194	South Africa	194
-1997	1,144	Pakistan	1,144
-1998	1,509	Pakistan	1,509
-1999	1,933	Pakistan	1,933
-2000	2,295	Pakistan	2,295
-2001	2,903	Pakistan	2,903
-2002	1,227	Pakistan	1,227
-2003	1,017	Pakistan	1,017
-2004	1,279	Pakistan	1,279
-2005	1,117	Pakistan	1,117
-2006	1,293	Pakistan	1,293
-2007	1,233	Pakistan	1,233
+1997	1144	Pakistan	1144
+1998	1509	Pakistan	1509
+1999	1933	Pakistan	1933
+2000	2295	Pakistan	2295
+2001	2903	Pakistan	2903
+2002	1227	Pakistan	1227
+2003	1017	Pakistan	1017
+2004	1279	Pakistan	1279
+2005	1117	Pakistan	1117
+2006	1293	Pakistan	1293
+2007	1233	Pakistan	1233
 2008	926	Pakistan	926
 2009	838	Pakistan	838
 2010	693	Pakistan	693
@@ -259,55 +259,55 @@ year	pop	countries	h1bvisa
 2014	670	Pakistan	670
 2015	609	Pakistan	609
 2016	601	Pakistan	601
-1997	1,078	Brazil	1,078
-1998	1,323	Brazil	1,323
-1999	1,581	Brazil	1,581
-2000	1,913	Brazil	1,913
-2001	2,367	Brazil	2,367
-2002	2,155	Brazil	2,155
-2003	2,011	Brazil	2,011
-2004	2,174	Brazil	2,174
-2005	1,972	Brazil	1,972
-2006	2,039	Brazil	2,039
-2007	1,938	Brazil	1,938
-2008	1,483	Brazil	1,483
-2009	1,466	Brazil	1,466
-2010	1,613	Brazil	1,613
-2011	1,614	Brazil	1,614
-2012	1,583	Brazil	1,583
-2013	1,451	Brazil	1,451
-2014	1,352	Brazil	1,352
-2015	1,258	Brazil	1,258
-2016	1,253	Brazil	1,253
-1997	900	Korea, South	900
-1998	940	Korea, South	940
-1999	1,911	Korea, South	1,911
-2000	2,296	Korea, South	2,296
-2001	2,899	Korea, South	2,899
-2002	2,989	Korea, South	2,989
-2003	2,892	Korea, South	2,892
-2004	3,422	Korea, South	3,422
-2005	3,838	Korea, South	3,838
-2006	3,924	Korea, South	3,924
-2007	3,788	Korea, South	3,788
-2008	3,257	Korea, South	3,257
-2009	3,233	Korea, South	3,233
-2010	3,656	Korea, South	3,656
-2011	3,501	Korea, South	3,501
-2012	3,131	Korea, South	3,131
-2013	3,000	Korea, South	3,000
-2014	2,727	Korea, South	2,727
-2015	2,526	Korea, South	2,526
-2016	2,377	Korea, South	2,377
+1997	1078	Brazil	1078
+1998	1323	Brazil	1323
+1999	1581	Brazil	1581
+2000	1913	Brazil	1913
+2001	2367	Brazil	2367
+2002	2155	Brazil	2155
+2003	2011	Brazil	2011
+2004	2174	Brazil	2174
+2005	1972	Brazil	1972
+2006	2039	Brazil	2039
+2007	1938	Brazil	1938
+2008	1483	Brazil	1483
+2009	1466	Brazil	1466
+2010	1613	Brazil	1613
+2011	1614	Brazil	1614
+2012	1583	Brazil	1583
+2013	1451	Brazil	1451
+2014	1352	Brazil	1352
+2015	1258	Brazil	1258
+2016	1253	Brazil	1253
+1997	900	Korea  South	900
+1998	940	Korea  South	940
+1999	1911	Korea  South	1911
+2000	2296	Korea  South	2296
+2001	2899	Korea  South	2899
+2002	2989	Korea  South	2989
+2003	2892	Korea  South	2892
+2004	3422	Korea  South	3422
+2005	3838	Korea  South	3838
+2006	3924	Korea  South	3924
+2007	3788	Korea  South	3788
+2008	3257	Korea  South	3257
+2009	3233	Korea  South	3233
+2010	3656	Korea  South	3656
+2011	3501	Korea  South	3501
+2012	3131	Korea  South	3131
+2013	3000	Korea  South	3000
+2014	2727	Korea  South	2727
+2015	2526	Korea  South	2526
+2016	2377	Korea  South	2377
 1997	890	Spain	890
 1998	849	Spain	849
 1999	895	Spain	895
 2000	916	Spain	916
-2001	1,091	Spain	1,091
-2002	1,115	Spain	1,115
-2003	1,071	Spain	1,071
-2004	1,067	Spain	1,067
-2005	1,075	Spain	1,075
+2001	1091	Spain	1091
+2002	1115	Spain	1115
+2003	1071	Spain	1071
+2004	1067	Spain	1067
+2005	1075	Spain	1075
 2006	990	Spain	990
 2007	879	Spain	879
 2008	775	Spain	775
@@ -322,14 +322,14 @@ year	pop	countries	h1bvisa
 1997	847	Venezuela	847
 1998	869	Venezuela	869
 1999	975	Venezuela	975
-2000	1,078	Venezuela	1,078
-2001	1,559	Venezuela	1,559
-2002	1,500	Venezuela	1,500
-2003	1,321	Venezuela	1,321
-2004	1,808	Venezuela	1,808
-2005	1,574	Venezuela	1,574
-2006	1,452	Venezuela	1,452
-2007	1,282	Venezuela	1,282
+2000	1078	Venezuela	1078
+2001	1559	Venezuela	1559
+2002	1500	Venezuela	1500
+2003	1321	Venezuela	1321
+2004	1808	Venezuela	1808
+2005	1574	Venezuela	1574
+2006	1452	Venezuela	1452
+2007	1282	Venezuela	1282
 2008	954	Venezuela	954
 2009	770	Venezuela	770
 2010	911	Venezuela	911
@@ -341,15 +341,15 @@ year	pop	countries	h1bvisa
 2016	494	Venezuela	494
 1997	842	Israel	842
 1998	823	Israel	823
-1999	1,030	Israel	1,030
-2000	1,223	Israel	1,223
-2001	1,454	Israel	1,454
-2002	1,350	Israel	1,350
-2003	1,233	Israel	1,233
-2004	1,520	Israel	1,520
-2005	1,355	Israel	1,355
-2006	1,179	Israel	1,179
-2007	1,075	Israel	1,075
+1999	1030	Israel	1030
+2000	1223	Israel	1223
+2001	1454	Israel	1454
+2002	1350	Israel	1350
+2003	1233	Israel	1233
+2004	1520	Israel	1520
+2005	1355	Israel	1355
+2006	1179	Israel	1179
+2007	1075	Israel	1075
 2008	829	Israel	829
 2009	758	Israel	758
 2010	786	Israel	786
@@ -362,21 +362,21 @@ year	pop	countries	h1bvisa
 1997	806	Italy	806
 1998	833	Italy	833
 1999	970	Italy	970
-2000	1,050	Italy	1,050
-2001	1,251	Italy	1,251
-2002	1,106	Italy	1,106
-2003	1,005	Italy	1,005
-2004	1,219	Italy	1,219
-2005	1,125	Italy	1,125
-2006	1,088	Italy	1,088
+2000	1050	Italy	1050
+2001	1251	Italy	1251
+2002	1106	Italy	1106
+2003	1005	Italy	1005
+2004	1219	Italy	1219
+2005	1125	Italy	1125
+2006	1088	Italy	1088
 2007	974	Italy	974
 2008	865	Italy	865
 2009	867	Italy	867
-2010	1,068	Italy	1,068
-2011	1,095	Italy	1,095
-2012	1,165	Italy	1,165
-2013	1,086	Italy	1,086
-2014	1,030	Italy	1,030
+2010	1068	Italy	1068
+2011	1095	Italy	1095
+2012	1165	Italy	1165
+2013	1086	Italy	1086
+2014	1030	Italy	1030
 2015	971	Italy	971
 2016	896	Italy	896
 1997	776	Netherlands	776
@@ -422,34 +422,34 @@ year	pop	countries	h1bvisa
 1997	579	Turkey	579
 1998	686	Turkey	686
 1999	934	Turkey	934
-2000	1,072	Turkey	1,072
-2001	1,404	Turkey	1,404
-2002	1,611	Turkey	1,611
-2003	1,508	Turkey	1,508
-2004	1,710	Turkey	1,710
-2005	1,772	Turkey	1,772
-2006	1,660	Turkey	1,660
-2007	1,606	Turkey	1,606
-2008	1,362	Turkey	1,362
-2009	1,466	Turkey	1,466
-2010	1,421	Turkey	1,421
-2011	1,332	Turkey	1,332
-2012	1,168	Turkey	1,168
-2013	1,080	Turkey	1,080
-2014	1,040	Turkey	1,040
+2000	1072	Turkey	1072
+2001	1404	Turkey	1404
+2002	1611	Turkey	1611
+2003	1508	Turkey	1508
+2004	1710	Turkey	1710
+2005	1772	Turkey	1772
+2006	1660	Turkey	1660
+2007	1606	Turkey	1606
+2008	1362	Turkey	1362
+2009	1466	Turkey	1466
+2010	1421	Turkey	1421
+2011	1332	Turkey	1332
+2012	1168	Turkey	1168
+2013	1080	Turkey	1080
+2014	1040	Turkey	1040
 2015	902	Turkey	902
 2016	731	Turkey	731
 1997	535	Argentina	535
 1998	560	Argentina	560
 1999	627	Argentina	627
 2000	817	Argentina	817
-2001	1,106	Argentina	1,106
-2002	1,644	Argentina	1,644
-2003	1,517	Argentina	1,517
-2004	1,507	Argentina	1,507
-2005	1,517	Argentina	1,517
-2006	1,406	Argentina	1,406
-2007	1,185	Argentina	1,185
+2001	1106	Argentina	1106
+2002	1644	Argentina	1644
+2003	1517	Argentina	1517
+2004	1507	Argentina	1507
+2005	1517	Argentina	1517
+2006	1406	Argentina	1406
+2007	1185	Argentina	1185
 2008	859	Argentina	859
 2009	753	Argentina	753
 2010	727	Argentina	727
@@ -462,12 +462,12 @@ year	pop	countries	h1bvisa
 1997	534	Malaysia	534
 1998	564	Malaysia	564
 1999	907	Malaysia	907
-2000	1,251	Malaysia	1,251
-2001	1,411	Malaysia	1,411
+2000	1251	Malaysia	1251
+2001	1411	Malaysia	1411
 2002	891	Malaysia	891
 2003	549	Malaysia	549
-2004	1,050	Malaysia	1,050
-2005	1,050	Malaysia	1,050
+2004	1050	Malaysia	1050
+2005	1050	Malaysia	1050
 2006	967	Malaysia	967
 2007	967	Malaysia	967
 2008	709	Malaysia	709
@@ -482,17 +482,17 @@ year	pop	countries	h1bvisa
 1997	531	Colombia	531
 1998	503	Colombia	503
 1999	812	Colombia	812
-2000	1,200	Colombia	1,200
-2001	1,881	Colombia	1,881
-2002	1,939	Colombia	1,939
-2003	1,595	Colombia	1,595
-2004	2,174	Colombia	2,174
-2005	1,849	Colombia	1,849
-2006	1,717	Colombia	1,717
-2007	1,631	Colombia	1,631
-2008	1,199	Colombia	1,199
-2009	1,181	Colombia	1,181
-2010	1,114	Colombia	1,114
+2000	1200	Colombia	1200
+2001	1881	Colombia	1881
+2002	1939	Colombia	1939
+2003	1595	Colombia	1595
+2004	2174	Colombia	2174
+2005	1849	Colombia	1849
+2006	1717	Colombia	1717
+2007	1631	Colombia	1631
+2008	1199	Colombia	1199
+2009	1181	Colombia	1181
+2010	1114	Colombia	1114
 2011	934	Colombia	934
 2012	904	Colombia	904
 2013	787	Colombia	787
@@ -502,17 +502,17 @@ year	pop	countries	h1bvisa
 1997	531	Indonesia	295
 1998	503	Indonesia	345
 1999	812	Indonesia	671
-2000	1,200	Indonesia	1,241
-2001	1,881	Indonesia	1,462
-2002	1,939	Indonesia	928
-2003	1,595	Indonesia	563
-2004	2,174	Indonesia	685
-2005	1,849	Indonesia	831
-2006	1,717	Indonesia	890
-2007	1,631	Indonesia	1,007
-2008	1,199	Indonesia	783
-2009	1,181	Indonesia	694
-2010	1,114	Indonesia	748
+2000	1200	Indonesia	1241
+2001	1881	Indonesia	1462
+2002	1939	Indonesia	928
+2003	1595	Indonesia	563
+2004	2174	Indonesia	685
+2005	1849	Indonesia	831
+2006	1717	Indonesia	890
+2007	1631	Indonesia	1007
+2008	1199	Indonesia	783
+2009	1181	Indonesia	694
+2010	1114	Indonesia	748
 2011	934	Indonesia	674
 2012	904	Indonesia	609
 2013	787	Indonesia	509
